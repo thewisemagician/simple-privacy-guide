@@ -12,9 +12,8 @@ Many people believe it's not possible to combine convenience, privacy and securi
 
 * [Your personal devices (laptop/tablet/phone etc).](00-digital-devices.md)
 * [Passwords for online accounts.](01-password-managers.md)
-* [Web browsers.](02-web-browsers.md)
-* [Web browser configuration.](03-web-browsers-configuration.md)
-* [Instant messaging.](04-instant-messaging.md)
+* [Web browser configuration.](02-web-browsers-configuration.md)
+* [Instant messaging.](03-instant-messaging.md)
 
 #### A word about me:
 
