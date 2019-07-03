@@ -10,7 +10,7 @@ Many people believe it's not possible to combine convenience, privacy and securi
 
 #### This guide is separated in 9 chapters:
 
-* Your personal devices (laptop/tablet/phone etc).
+* [Your personal devices (laptop/tablet/phone etc).] (https://github.com/thewisemagician/simple-privacy-guide/blob/master/00-digital-devices.md)
 * Passwords for online accounts
 * Web browsers
 * Web browser configuration
