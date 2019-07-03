@@ -10,11 +10,11 @@ Many people believe it's not possible to combine convenience, privacy and securi
 
 #### This guide is separated in 9 chapters:
 
-* [Your personal devices (laptop/tablet/phone etc).] (https://github.com/thewisemagician/simple-privacy-guide/blob/master/00-digital-devices.md)
-* Passwords for online accounts
-* Web browsers
-* Web browser configuration
-* Instant messaging
+* [Your personal devices (laptop/tablet/phone etc).](00-digital-devices.md)
+* [Passwords for online accounts.](01-password-managers.md)
+* [Web browsers.](02-web-browsers.md)
+* [Web browser configuration.](03-web-browsers-configuration.md)
+* [Instant messaging.](04-instant-messaging.md)
 
 #### A word about me:
 
