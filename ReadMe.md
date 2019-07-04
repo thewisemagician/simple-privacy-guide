@@ -4,7 +4,7 @@ Let's pause a moment there: Imagine If a real person would do that, this behavio
 
 # You should not let yourself be subjected to criminal abuse
 
-Many people believe it's not possible to combine convenience, privacy and security. Usually they don't want to be bothered with more things to think about. In this guide I'm going to explain how with minimal change you can make a big difference and protecting your data/online activities.
+We believe it's not possible to combine convenience, privacy and security. We don't want to be bothered with more things to think about. In this guide I'm going to explain how with minimal change you can make a big difference and protecting your data/online activities.
 
 > I believe it's possible to actually combine both and in many case you will improve your digital life.
 
@@ -24,14 +24,14 @@ Many people believe it's not possible to combine convenience, privacy and securi
 
 While I could explain every single steps one by one, not only it would take time but it would also need to be kept updated to the newest version and for every possible combinations. I simply don't have the time to do this.
 
-I prefer to give you an overview of what you can change to improve your digital privacy and security.
+I prefer to give guidelines of what you can change to improve your digital privacy and security.
 
 #### What will you gain from this guide?
 
-Security and privacy can quickly burn even the most motivated expert. It's crucial to not burn yourself while going through this journey.
+Security and privacy can quickly burn even the most motivated experts. It's crucial to not burn yourself while going through this journey.
 
 Here is a quick outline of what you will get by following this guide.
-* All our digital devices are now encrypted. If they are stolen or lost it's almost impossible to recover the data
+* All our digital devices are now encrypted. If they are stolen or lost it's almost impossible to steal your data
 * We have strong and unique passwords for all the services and we only need to remember the master password of the password manager.
 * We switched our browser to Firefox and lowered the amount of data collected by Google
 * We installed a couple of addons to hide distracting advertisement and improve our productivity and force HTTPS whenever possible.
