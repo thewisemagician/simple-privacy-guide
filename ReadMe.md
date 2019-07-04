@@ -18,13 +18,7 @@ Many people believe it's not possible to combine convenience, privacy and securi
 * [Operating System](07-operating-system.md)
 * [VPN and your network](08-vpn-and-your-network.md)
 
-#### A word about me:
-
-This guide is based on my experience as a security advisor in a small company. My goal is to make sure people follow our advice and don't get burned out by our security / privacy policy. We perfectly know us, human we don't like changes and we love convenience.
-
-*IMPORTANT DISCLAIMER: This guide isn't meant for people who are paranoid, and the advice given here will probably make a few privacy aficionados cry. The goal number one of this guide is to go after the hanging fruits.*
-
-Each sections into two parts, the first one is the basic with almost no impact in your daily work flow the second is a bit more advanced and might require more changes. I also explain how the change will improve your convenience and what you will gain.
+### FAQ
 
 #### I have read your guide why don't you explain in more details each steps?
 
@@ -51,3 +45,12 @@ Here is a quick outline of what you will get by following this guide.
 
 #### How can I do a suggestion?
 You can simply create a pull request.
+
+
+### A word about me:
+
+This guide is based on my experience as a security advisor in a small company. My goal is to make sure people follow our advice and don't get burned out by our security / privacy policy. We perfectly know us, human we don't like changes and we love convenience.
+
+*IMPORTANT DISCLAIMER: This guide isn't meant for people who are paranoid, and the advice given here will probably make a few privacy aficionados cry. The goal number one of this guide is to go after the hanging fruits.*
+
+Each sections into two parts, the first one is the basic with almost no impact in your daily work flow the second is a bit more advanced and might require more changes. I also explain how the change will improve your convenience and what you will gain.
