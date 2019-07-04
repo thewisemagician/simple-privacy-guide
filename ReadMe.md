@@ -8,6 +8,8 @@ We believe it's not possible to combine convenience, privacy and security. We do
 
 > I believe it's possible to actually combine both and in many case you will improve your digital life.
 
+*IMPORTANT DISCLAIMER: This guide isn't meant for people who are paranoid, and the advice given here will probably make a few privacy aficionados cry. The goal number one of this guide is to go after the low hanging fruits.*
+
 #### This guide is separated in 9 chapters:
 
 * [Your personal devices (laptop/tablet/phone etc).](00-digital-devices.md)
@@ -50,7 +52,5 @@ You can simply create a pull request.
 ### A word about me:
 
 This guide is based on my experience as a security advisor in a small company. My goal is to make sure people follow our advice and don't get burned out by our security / privacy policy. We perfectly know us, human we don't like changes and we love convenience.
-
-*IMPORTANT DISCLAIMER: This guide isn't meant for people who are paranoid, and the advice given here will probably make a few privacy aficionados cry. The goal number one of this guide is to go after the low hanging fruits.*
 
 Each sections into two parts, the first one is the basic with almost no impact in your daily work flow the second is a bit more advanced and might require more changes. I also explain how the change will improve your convenience and what you will gain.
