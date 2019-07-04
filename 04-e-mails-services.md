@@ -6,9 +6,9 @@ E-Mails are a complicated topic so it's divided into two sub chapters. They are 
 
 Switch to a custom domain. Currently it's likely you are using a mail from an external mail provider. You can keep the mail provider but switch to your custom mail domain. I know it's sounds crazy and difficult to start (and you will have to pay a little bit) with this but it will simplify your life in the future.
 
-* Register a domain
-* Point the MX entries to your current mail provider
-* Start to change all your mails to your new domain
+* Register a domain.
+* Point the MX entries to your current mail provider (this is different for every provider/DNS setup, check the documentation of your provider and DNS service).
+* Start to change all your mails to your new domain.
 
 ## TLDR advanced:
 
@@ -34,20 +34,20 @@ Regardless of the convenience of having the possibility to switch at anytime it'
 
 ## TLDR basic:
 
-Switch to a secure mail provider which offers native E2E encryption like ProtonMail or Tutanota. I would privilege ProtonMail since their data center are outside of EU and US, and they use the standard PGP.
+Switch to a secure mail provider which offers native E2E encryption like [ProtonMail](https://protonmail.com/) or [Tutanota](https://www.tutanota.com/). I would privilege ProtonMail since their data center are outside of EU and US, and they use the standard PGP, which allows not only secure communication between protonmail users but also between protonmail and other services if they use PGP.
 
 ## TLDR advanced:
 
-Warning: the advanced is actually harder and more complicated to maintain than going with the basic.
+Warning: the advanced part is actually harder, complicated to maintain and easily less secure than going with the basic.
 
-Setup PGP to encrypt and digitally sign your mails. You can use something like mailvelope, and keep your current solution.
+Setup PGP to encrypt and digitally sign your mails. You can use something like [mailvelope](https://www.mailvelope.com/en/), and keep your current mail solution. Be aware this might be less secure.
 
-Convenience:
+## Convenience:
 
 I would strongly recommend to use the first basic setup since it brings encryption without you doing much. You just continue to send your mails as before. If you created your own domain like in the previous chapter switching it is trivial (simply change the MX records).
 
 
-Why is it important:
+## Why is it important:
 
 It might surprise you but E-Mails aren't really secure. They aren't encrypted and it's trivial to spoof fields like FROM or SENDER. And while you have nothing to hide and nothing to fear what you write to your friends and family is NONE of Google business!
 
