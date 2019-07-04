@@ -13,13 +13,15 @@ Enable full disk encryption on all your mobile devices.
 
 Enable encryption on your computer too
 
-* Windows 10: Install VeraCrypt
-* MacOSX: They are by default encrypted. If you are using an old version, check Apple documentation how to enable it.
-* Linux: Check for your distro documentation how to setup LUKS
+* Windows 10:
+  * The recommended option is to use Veracrypt a powerfull open source encryption tool. If you prefer to use the built in but less secure windows solution called bitlocker just check the option bellow. [You can find Veracrypt on there official webpage](https://www.veracrypt.fr/en/Home.html).
+  * If you have Windows 10 Entreprise you can enable Bitlocker, while you don't have to install anything additional software this isn't the recommended option because Bitlocker isn't open source and had several security issues in the past. If you still want to use it, follow [the guide on Microsoft website](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-device-encryption-overview-windows-10)
+* MacOSX: They come with a default encryption solution called FileVault. [Check Apple documentation how to enable it.](https://support.apple.com/en-us/HT204837)
+* Linux: Check for your distribution documentation how to setup LUKS
 
 ## Convenience:
 
-Once enable you don't have to worry about it anymore. The daily usage remain virtually unchanged. Be aware if you loose your password you won't be able to access your data. Store it in your password manager (check the next section for more information)
+No matter which operating or solution you choose, once enabled you don't have to worry about it anymore. Your daily workflow usage remain virtually unchanged. Be aware if you loose your password you won't be able to access your data. Store it in your password manager (check the next section for more information)
 
 
 ## Why is it important:
