@@ -14,6 +14,8 @@ Many people believe it's not possible to combine convenience, privacy and securi
 * [Passwords for online accounts.](01-password-managers.md)
 * [Web browser configuration.](02-web-browsers-configuration.md)
 * [Instant messaging.](03-instant-messaging.md)
+* [Cloud storage.](06-cloud-storage.md)
+* [Operating System](07-operating-system.md)
 
 #### A word about me:
 
