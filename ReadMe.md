@@ -26,6 +26,12 @@ This guide is based on my experience as a security advisor in a small company. M
 
 Each sections into two parts, the first one is the basic with almost no impact in your daily work flow the second is a bit more advanced and might require more changes. I also explain how the change will improve your convenience and what you will gain.
 
+#### I have read your guide why don't you explain in more details each steps?
+
+While I could explain every single steps one by one, not only it would take time but it would also need to be kept updated to the newest version and for every possible combinations. I simply don't have the time to do this.
+
+I prefer to give you an overview of what you can change to improve your digital privacy and security.
+
 #### What will you gain from this guide?
 
 Security and privacy can quickly burn even the most motivated expert. It's crucial to not burn yourself while going through this journey.
@@ -41,3 +47,7 @@ Here is a quick outline of what you will get by following this guide.
 * All data uploaded to cloud service is encrypted. If you are really into it you might even have setup your own cloud server (with a NAS like Synology)
 * We disabled most of the tracking on Windows 10.
 * We have a network wide tracking blocker to help secure device which aren't configurable. Maybe we even have a VPN to avoid IP geolocation and connect in unsecure Wifi access point.
+
+
+#### How can I do a suggestion?
+You can simply create a pull request.
