@@ -16,6 +16,7 @@ Many people believe it's not possible to combine convenience, privacy and securi
 * [Instant messaging.](03-instant-messaging.md)
 * [Cloud storage.](06-cloud-storage.md)
 * [Operating System](07-operating-system.md)
+* [VPN and your network](08-vpn-and-your-network.md)
 
 #### A word about me:
 
