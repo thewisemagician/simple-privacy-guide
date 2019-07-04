@@ -1,5 +1,7 @@
 # Your personal device (laptop/tablet/phone etc).
 
+:warning: Warning be aware if you forget your password you can't recover your data.
+
 ## TLDR basic:
 
 Enable full disk encryption on all your mobile devices.
