@@ -6,7 +6,7 @@ This section depend vastly on which operating system you are using.
 
 ### Windows
 
-* While you can stay on Windows be aware [it is a privacy nightmare and collect a lot of data in the background](https://www.privacytools.io/operating-systems/#win10). It's recommended in the long run to switch to Linux.
+* While you can stay on Windows be aware it is a privacy nightmare and collect a lot of data in the background [you read this excellent sumarry why Windows is really bad](https://www.privacytools.io/operating-systems/#win10). It's recommended in the long run to switch to Linux.
 * if you are using windows 10, use an open source tool like DisableWinTracking to reduce the tracking.
 * Avoid using Microsoft edge (see the browser section to check how to configure firefox)
 * Remove bloatware (useless crap software that come preinstalled). They slow down your computer and take away precious resources.
