@@ -11,7 +11,7 @@ Enable full disk encryption on all your mobile devices.
 
 ## TLDR advanced:
 
-Enable encryption on your computer too
+Enable encryption on your computer too. The easiest is just to fully encrypt the whole system.
 
 * Windows 10:
   * The recommended option is to use Veracrypt a powerfull open source encryption tool. If you prefer to use the built in but less secure windows solution called bitlocker just check the option bellow. [You can find Veracrypt on there official webpage](https://www.veracrypt.fr/en/Home.html).
@@ -27,3 +27,8 @@ No matter which operating or solution you choose, once enabled you don't have to
 ## Why is it important:
 
 By default usually the memory of your device isn't encrypted and if you loose your device it's trivial to recover/steal the data inside. It's especially important when you travel with confidential documents.
+
+## Sources:
+[The VeraCrypt Audit Results](https://ostif.org/the-veracrypt-audit-results/)
+[Data of 43,000 patients breached after theft of unencrypted laptop](https://www.healthcareitnews.com/news/data-43000-patients-breached-after-theft-unencrypted-laptop)
+[NASA suffers major data breach over stolen laptop that wasn’t encrypted](https://nakedsecurity.sophos.com/2012/11/15/nasa-data-breach-stolen-laptop/)
