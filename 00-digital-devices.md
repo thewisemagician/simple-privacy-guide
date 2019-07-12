@@ -6,7 +6,7 @@
 
 Enable full disk encryption on all your mobile devices.
 
-* Iphones and Apple computers are by default encrypted
+* Iphones [1] are by default encrypted
 * Android is also by default but, if you have an old device go in settings -> memory -> enable encryption
 
 ## TLDR advanced:
@@ -29,6 +29,9 @@ No matter which operating or solution you choose, once enabled you don't have to
 By default usually the memory of your device isn't encrypted and if you loose your device it's trivial to recover/steal the data inside. It's especially important when you travel with confidential documents.
 
 ## Sources:
+* [1] [Is my iPhone encrypted?](https://ioshacker.com/iphone/is-my-iphone-encrypted-everything-you-need-to-know-about-iphone-encryption)
+* [2] [New Android Marshmallow devices must have default encryption, Google says](https://nakedsecurity.sophos.com/2015/10/21/new-android-marshmallow-devices-must-have-default-encryption-google-says/)
+* [Use FileVault to encrypt the startup disk on your Mac](https://support.apple.com/en-us/HT204837)
 * [The VeraCrypt Audit Results](https://ostif.org/the-veracrypt-audit-results/)
 * [Data of 43,000 patients breached after theft of unencrypted laptop](https://www.healthcareitnews.com/news/data-43000-patients-breached-after-theft-unencrypted-laptop)
 * [NASA suffers major data breach over stolen laptop that wasn’t encrypted](https://nakedsecurity.sophos.com/2012/11/15/nasa-data-breach-stolen-laptop/)
