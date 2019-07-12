@@ -34,5 +34,4 @@ By default usually the memory of your device isn't encrypted and if you loose yo
 * [3] [Data of 43,000 patients breached after theft of unencrypted laptop](https://www.healthcareitnews.com/news/data-43000-patients-breached-after-theft-unencrypted-laptop)
 * [4] [NASA suffers major data breach over stolen laptop that wasn’t encrypted](https://nakedsecurity.sophos.com/2012/11/15/nasa-data-breach-stolen-laptop/)
 * [5] [The VeraCrypt Audit Results](https://ostif.org/the-veracrypt-audit-results/)
-* [Use FileVault to encrypt the startup disk on your Mac](https://support.apple.com/en-us/HT204837)
 
